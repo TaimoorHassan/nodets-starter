@@ -1,7 +1,11 @@
 ## This is just a playground repo.
 
 ### On windows.
-* right click on this folder and click `Open with Visual Studio Code`.
+* You can clone this repo with `git clone https://github.com/TaimoorHassan/nodets-starter.git` if you have git installed. or you can download the zip file from the green button above.
+
+After you've downloaded this repo.
+
+* right click on `nodets-starter(-master)` folder and click `Open with Visual Studio Code`.
 * This should open the repo in vscode
 * hit ` Ctrl + j ` to bring up the terminal and run  `npm i`
 * dependencies should be installed now. 
