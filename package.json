@@ -1,0 +1,17 @@
+{
+  "name": "nodets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "tsc-watch --onSuccess \"node --inspect ./public/server.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "tsc-watch": "^4.0.0",
+    "typescript": "^3.7.3"
+  }
+}
