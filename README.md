@@ -1,3 +1,11 @@
+
+* do an `npm i`
+* after that. do `npm run debug`
+
+
+
+# Text below this means NOTHING now.
+
 ## This is just a playground repo.
 
 ### On windows.
